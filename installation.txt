@@ -1,22 +1,24 @@
 Installation
 
+I. Arrival
+
 Surely on other days the old church would be less gray, its stones
 less rough and soggy, the bulldozer harrows in the yard less full of
 mud. Umbrella in his left hand and satchel in his, Balsam gazed around
 the church and at the gritty neighborhood around it till the door
 opened by the hand of a young man in a jacket and tie.
 
-"Ah, Henry Balsam," said the man warmly. "Welcome to your congregation.
-I'm deacon DEACON." Wan and thin, his face as smooth as if his light
-brown skin had been stretched across it like a loom, he stood back to
-let Balsam in. They shook hands, muttered preliminary words of
+"Ah, Henry Balsam," said the man warmly. "Welcome to your
+congregation.  I'm deacon DEACON." Wan and thin, his face was as
+entirely smooth, his light brown skin stretched across it a if on a
+loom.  They shook hands, muttered preliminary words of
 acquaintanceship, and headed down a hall whose edges were traced in
-dust--more evidence of the ongoing renovations.
+dust--evidence of ongoing renovations.
 
 DEACON opened a wooden door leading to an odd-shaped nook, twice as
 wide as it was deep. "I apologize for the makeshift office," he
-said. "The renovation turned the old pastor's office into a rec room
-and classroom for the children."
+said. "The renovation turned the old pastor's office into a playroom
+for the children."
 
 "I'm not fussy about space," Balsam reassured him.
 
@@ -53,7 +55,121 @@ door.
 meet with one of our congregants?"
 
 DEACON was replaced by a middle-aged woman with a powerful jaw and
-fierce eyes, INHERITOR being her name. Behind her smile seemed to lay
+fierce eyes, INHERITORCHURCH Eventide Church
+Holly's home town: Hagarsdale
+
+REVEREND Henry Balsam
+
+Relatively young, surveys the field before he speaks, sensative, alert to motivations and agendas, conventional but open to education, congenitally skeptical
+
+Deacon
+
+Discreet, concerned with institutional success, supportive but with an agenda, keeps secrets
+
+UPSTART
+
+Angry that his grandfather did not achieve the success his family later achieved, consumed with getting his grandfather and therefore the whole family the recognition he thinks they deserve thanks to their current success, believes that the poor should be entrepreneurial like his family
+
+INHERITOR
+
+Simply a representative of the ruling class, proud of all her father's buldings and monetary contributions to the city, wants to be rich in a responsible way, taking care of the downtrodden but upholding the status quo
+
+LEADER
+
+Has her fingers in everything, on every committee in the church and outside, also considers her mother's contributions of a more social sort to be paramount to the health of the city
+
+URCHIN Holly
+
+Transgender prostitute, homeless, mixed-race, never understood by either parent, rejected, needs to self-medicate, heroin addict, but sensitive and accepts his place as the only possibility, wants to help others meet their sexual needs.
+
+FIANCEE
+
+Not committed to her lover, thinks he will not succeed as a pastor, skeptical like him but in a way that rejecs his ideals, can't share his life.
+
+---
+
+Scenes
+
+Arrival
+
+Meeting with first petitioner
+
+Request for information with deacon
+
+Arrival of homeless for meal
+
+Next day: Meeting with second petitioner
+
+First meeting with Holly
+
+Next day: Meeting with third petitioner
+
+Meeting with chair of the board
+
+Second meeting with a petitioner: tour of ity
+
+Next day: second meeting with a petitioner
+
+Board meeting
+
+Second meeting with Holly. Memory of girlfriend.
+
+Sunday installation
+
+Next day: second meeting with a petitioner
+
+Third meeting with Holly
+
+Next day: second meeting with a petitioner
+
+More church logistics
+
+Search for Holly and conversation with policeman, denouement
+
+---
+
+Acts 18:9 Be not afraid, but speak, and hold not thy peace: 10 For I am with thee,
+
+Romans 1:12  I may be comforted together with you by the mutual faith both of you and me.
+
+Romans 2:15 show the work of the law written in their hearts
+
+Romans 2:21 Thou therefore which teachest another, teachest thou not thyself?
+
+Romans 3:8 Let us do evil, that good may come?
+
+Romans 3:19 that every mouth may be stopped
+
+Romans 3:27 Where is boasting then?
+
+Romans 5:3 we glory in tribulations also: knowing that tribulation worketh patience; 4 And patience, experience; and experience, hope: 5 And hope maketh not ashamed;
+
+Romans 5:19 by one man's disobedience many were made sinners
+
+Romans 6:7 he that is dead is freed from sin.
+
+I Corinthians 1:10 Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and that there be no divisions among you; but that ye be perfectly joined together in the same mind and in the same judgment.
+
+I Corinthians 1:20 hath not God made foolish the wisdom of this world?
+
+I Corinthians 9:24 Know ye not that they which run in a race run all, but one receiveth the prize?
+
+I Corinthians 14:9 ye shall speak into the air.
+
+Galatians 3:27 There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus.
+
+I Thessalonians 5:19 Quench not the Spirit.
+
+II Timothy 6:10 For the love of money is the root of all evil
+
+Hebrews 3:3 he who hath builded the house hath more honour than the house. 4 For every house is builded by some man; but he that built all things is God.
+
+Hebrews 12:1 compassed about with so great a cloud of witnesses
+
+James 1: 26 If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man's religion is vain.
+
+James 4: 14 Whereas ye know not what shall be on the morrow.
+ being her name. Behind her smile seemed to lay
 a legacy. She took Balsam's right hand firmly and sat in the armchair
 that barely fit next to his desk.
 
@@ -112,10 +228,10 @@ they probably don't want to revisit."
 "Unfortunately, no, Reverend George did not resolve it before
 leaving. His departure was sudden."
 
-"Thanks, INHERITOR. I'll certainly try to act on it in a timely
+"Thanks, INHERITOR. I'll certainly try to act on this issue in a timely
 manner."
 
-Balsam did not let himself consider the burial issue any more that
+Balsam did not let himself consider the burial question any more that
 afternoon, but delved instead into his stack of documents. He also had
 access to several years' worth of financial records, and despite his
 limited exposure to organizational budgeting as a former divinity
@@ -125,10 +241,83 @@ expected, so although the congregation was in pretty good financial
 shape, their recent expenditures had stressed their funds, the
 beneficence of the INHERITOR familiy notwithstanding.
 
+Escaping from his stifling office for a brief lunch alone in the
+kitchen, he took a tour of the church. His keys let him into every
+room, where he imagined he might learn more about the congregation
+than he could from spreadsheets and formal records. The children's
+play room didn't strike him as well chosen. The windows were too high
+for a young child to look out, and the tables were constrained by the
+shae of the room. Overall, the change of office left both the
+children's room and his paltry chamber unsatisfactory--nothing like
+the lavish update to the sanctuary. The renovation had scrupulously
+restored both the original design and the original materials, which
+had by no means been modest in their own day. Balsam speculated that,
+if Mr. INHERITOR could see the good use to which his legacy had been
+put in the restoration, he might not feel the need for his body to be
+dragged back and interred next to it.
 
----
+The soup kitchen was cheerful and the diners well-manners, although
+they didn't relax their scowls or share a word with each other. He had
+worked in many a soup kitchen and found this to be one with all the
+rest. The volunteers greeted him enthusiastically.
 
-A bustle around the food table contrasted with the meek orderliness of the indigent people at last night's free meal, leading Bolsom to speculate who needed the ministrations of CHURCH more.
+But on the way back to his apartment for a meager cheese sandwich and
+an apple, Balsam viewed the brick and clapboard around him
+differently. Now he rated each open spot or stairwell as a
+restingplace, guessing that many of them played that role each night.
+
+II. Confession
+
+The rain had lifted the next day, and Balsam saw Eventide Church in a
+kinder light. The ruts in the courtyard reminded him of INHERITOR's
+request, so he asked DEACON how the issue had arisen.
+
+"I apologize, Reverend," said DEACON. "In the rush to interview and
+hire you, nobody had a moment to explain this matter about a grave
+site. There are actually three leading members of the church who want
+a relative buried there, and with room for only one, a certain amount
+of polite maneuvering has been going on during the past six months."
+
+"It seems that the board didn't want to be saddled with the decision."
+
+"They hoped that the old pastor, who had been here twenty-six years,
+could handle it, but after he left, they relegated it to you."
+
+"Awkward," said Balsam.
+
+"Indeed, it's a small task but a thorny one," DEACON agreed. All three
+are part of multi-generational member families, and are generous in
+their support. In fact, one is coming to see you today. Did you check
+you calendar? He is taking you out to lunch."
+
+UPSTART turned out to be a slightly stocky, energetic young man in a
+fine suit, his wispy blond hair just a bit longer than is
+standard. The restaurant to which he took Balsam was elegant, with
+green tableclothes and exposed wood beams, but UPSTART treated their
+visit as casually as if he was munching on a pizza at the corner shop.
+They talked about Balsam's student past and UPSTART congratulated him
+on getting a fine placement. "Our church has occupied an honored place
+for over a century," he said. "I intend to help you take it to new
+heights.
+
+UPSTART explained, "The need in the community is greater than ever,
+and a soup kitchen is only a small easing of people's pain. We're
+participating in some housing and job training efforts in the city,
+but I'd love to see a bold initiative. My family is so lucky to be
+supporting much of the city. Like many places, our factories have been
+reduced, but we still provide employment to a considerable percentage
+of the population. And a set of attached clinics started by my uncles
+are thriving."
+
+After they talked about some of the community efforts, UPSTART
+bantered about his brother, sisters, uncles--various branches of the
+family who had been central to Eventide Church. Balsam knew how the
+conversation would turn. Which of the deceased had UPSTART chosen for
+the coveted spot in the courtyard?
+
+"And they all go back to grandfather GRANDFATHER," said UPSTART. "He
+was a lion of the community, and he's the main person I want to tell
+you about today. GRANDFATHER 
 
 ---
 
@@ -137,3 +326,9 @@ licentiousness. He was the cover-up for a crime no one would talk
 about, a crime so horrible that the goodly church folk couldn't even
 let themselves gaze into Pastor George's old office. By one man's
 disobedience many were made sinners.
+
+---
+
+A bustle around the food table contrasted with the meek orderliness of
+the indigent people at the free evening meals, leading Bolsom to
+speculate who needed the ministrations of Eventide more.
