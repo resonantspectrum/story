@@ -55,121 +55,7 @@ door.
 meet with one of our congregants?"
 
 DEACON was replaced by a middle-aged woman with a powerful jaw and
-fierce eyes, INHERITORCHURCH Eventide Church
-Holly's home town: Hagarsdale
-
-REVEREND Henry Balsam
-
-Relatively young, surveys the field before he speaks, sensative, alert to motivations and agendas, conventional but open to education, congenitally skeptical
-
-Deacon
-
-Discreet, concerned with institutional success, supportive but with an agenda, keeps secrets
-
-UPSTART
-
-Angry that his grandfather did not achieve the success his family later achieved, consumed with getting his grandfather and therefore the whole family the recognition he thinks they deserve thanks to their current success, believes that the poor should be entrepreneurial like his family
-
-INHERITOR
-
-Simply a representative of the ruling class, proud of all her father's buldings and monetary contributions to the city, wants to be rich in a responsible way, taking care of the downtrodden but upholding the status quo
-
-LEADER
-
-Has her fingers in everything, on every committee in the church and outside, also considers her mother's contributions of a more social sort to be paramount to the health of the city
-
-URCHIN Holly
-
-Transgender prostitute, homeless, mixed-race, never understood by either parent, rejected, needs to self-medicate, heroin addict, but sensitive and accepts his place as the only possibility, wants to help others meet their sexual needs.
-
-FIANCEE
-
-Not committed to her lover, thinks he will not succeed as a pastor, skeptical like him but in a way that rejecs his ideals, can't share his life.
-
----
-
-Scenes
-
-Arrival
-
-Meeting with first petitioner
-
-Request for information with deacon
-
-Arrival of homeless for meal
-
-Next day: Meeting with second petitioner
-
-First meeting with Holly
-
-Next day: Meeting with third petitioner
-
-Meeting with chair of the board
-
-Second meeting with a petitioner: tour of ity
-
-Next day: second meeting with a petitioner
-
-Board meeting
-
-Second meeting with Holly. Memory of girlfriend.
-
-Sunday installation
-
-Next day: second meeting with a petitioner
-
-Third meeting with Holly
-
-Next day: second meeting with a petitioner
-
-More church logistics
-
-Search for Holly and conversation with policeman, denouement
-
----
-
-Acts 18:9 Be not afraid, but speak, and hold not thy peace: 10 For I am with thee,
-
-Romans 1:12  I may be comforted together with you by the mutual faith both of you and me.
-
-Romans 2:15 show the work of the law written in their hearts
-
-Romans 2:21 Thou therefore which teachest another, teachest thou not thyself?
-
-Romans 3:8 Let us do evil, that good may come?
-
-Romans 3:19 that every mouth may be stopped
-
-Romans 3:27 Where is boasting then?
-
-Romans 5:3 we glory in tribulations also: knowing that tribulation worketh patience; 4 And patience, experience; and experience, hope: 5 And hope maketh not ashamed;
-
-Romans 5:19 by one man's disobedience many were made sinners
-
-Romans 6:7 he that is dead is freed from sin.
-
-I Corinthians 1:10 Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and that there be no divisions among you; but that ye be perfectly joined together in the same mind and in the same judgment.
-
-I Corinthians 1:20 hath not God made foolish the wisdom of this world?
-
-I Corinthians 9:24 Know ye not that they which run in a race run all, but one receiveth the prize?
-
-I Corinthians 14:9 ye shall speak into the air.
-
-Galatians 3:27 There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus.
-
-I Thessalonians 5:19 Quench not the Spirit.
-
-II Timothy 6:10 For the love of money is the root of all evil
-
-Hebrews 3:3 he who hath builded the house hath more honour than the house. 4 For every house is builded by some man; but he that built all things is God.
-
-Hebrews 12:1 compassed about with so great a cloud of witnesses
-
-James 1: 26 If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man's religion is vain.
-
-James 4: 14 Whereas ye know not what shall be on the morrow.
- being her name. Behind her smile seemed to lay
+fierce eyes, INHERITOR being her name. Behind her smile seemed to lay
 a legacy. She took Balsam's right hand firmly and sat in the armchair
 that barely fit next to his desk.
 
@@ -283,7 +169,7 @@ of polite maneuvering has been going on during the past six months."
 "They hoped that the old pastor, who had been here twenty-six years,
 could handle it, but after he left, they relegated it to you."
 
-"Awkward," said Balsam.
+"Me alone?," asked Balsam, feeling more and more exposed.
 
 "Indeed, it's a small task but a thorny one," DEACON agreed. All three
 are part of multi-generational member families, and are generous in
@@ -317,7 +203,7 @@ the coveted spot in the courtyard?
 
 "And they all go back to grandfather GRANDFATHER," said UPSTART. "He
 was a lion of the community, and he's the main person I want to tell
-you about today. GRANDFATHER 
+you about today. GRANDFATHER
 
 ---
 
@@ -332,3 +218,120 @@ disobedience many were made sinners.
 A bustle around the food table contrasted with the meek orderliness of
 the indigent people at the free evening meals, leading Bolsom to
 speculate who needed the ministrations of Eventide more.
+
+---
+
+CHURCH Eventide Church
+Holly's home town: Hagarsdale
+
+REVEREND Henry Balsam
+
+Relatively young, surveys the field before he speaks, sensative, alert to motivations and agendas, conventional but open to education, congenitally skeptical
+
+Deacon
+
+Discreet, concerned with institutional success, supportive but with an agenda, keeps secrets
+
+UPSTART
+
+Angry that his grandfather did not achieve the success his family later achieved, consumed with getting his grandfather and therefore the whole family the recognition he thinks they deserve thanks to their current success, believes that the poor should be entrepreneurial like his family
+
+INHERITOR
+
+Simply a representative of the ruling class, proud of all her father's buldings and monetary contributions to the city, wants to be rich in a responsible way, taking care of the downtrodden but upholding the status quo
+
+LEADER
+
+Has her fingers in everything, on every committee in the church and outside, also considers her mother's contributions of a more social sort to be paramount to the health of the city
+
+URCHIN Holly
+
+Transgender prostitute, homeless, mixed-race, never understood by either parent, rejected, needs to self-medicate, heroin addict, but sensitive and accepts his place as the only possibility, wants to help others meet their sexual needs.
+
+FIANCEE
+
+Not committed to her lover, thinks he will not succeed as a pastor, skeptical like him but in a way that rejecs his ideals, can't share his life.
+
+---
+
+Scenes
+
+Arrival
+
+Meeting with first petitioner
+
+Request for information with deacon
+
+Arrival of homeless for meal
+
+Next day: Meeting with second petitioner
+
+First meeting with Holly
+
+Next day: Meeting with third petitioner
+
+Meeting with chair of the board
+
+Second meeting with a petitioner: tour of ity
+
+Next day: second meeting with a petitioner
+
+Board meeting
+
+Second meeting with Holly. Memory of girlfriend.
+
+Sunday installation
+
+Next day: second meeting with a petitioner
+
+Third meeting with Holly
+
+Next day: second meeting with a petitioner
+
+More church logistics
+
+Search for Holly and conversation with policeman, denouement
+
+---
+
+Acts 18:9 Be not afraid, but speak, and hold not thy peace: 10 For I am with thee,
+
+Romans 1:12  I may be comforted together with you by the mutual faith both of you and me.
+
+Romans 2:15 show the work of the law written in their hearts
+
+Romans 2:21 Thou therefore which teachest another, teachest thou not thyself?
+
+Romans 3:8 Let us do evil, that good may come?
+
+Romans 3:19 that every mouth may be stopped
+
+Romans 3:27 Where is boasting then?
+
+Romans 5:3 we glory in tribulations also: knowing that tribulation worketh patience; 4 And patience, experience; and experience, hope: 5 And hope maketh not ashamed;
+
+Romans 5:19 by one man's disobedience many were made sinners
+
+Romans 6:7 he that is dead is freed from sin.
+
+I Corinthians 1:10 Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and that there be no divisions among you; but that ye be perfectly joined together in the same mind and in the same judgment.
+
+I Corinthians 1:20 hath not God made foolish the wisdom of this world?
+
+I Corinthians 9:24 Know ye not that they which run in a race run all, but one receiveth the prize?
+
+I Corinthians 14:9 ye shall speak into the air.
+
+Galatians 3:27 There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus.
+
+I Thessalonians 5:19 Quench not the Spirit.
+
+II Timothy 6:10 For the love of money is the root of all evil
+
+Hebrews 3:3 he who hath builded the house hath more honour than the house. 4 For every house is builded by some man; but he that built all things is God.
+
+Hebrews 12:1 compassed about with so great a cloud of witnesses
+
+James 1: 26 If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man's religion is vain.
+
+James 4: 14 Whereas ye know not what shall be on the morrow.
