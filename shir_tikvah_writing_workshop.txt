@@ -1558,17 +1558,17 @@ a prpfessional writing career.
 - But the problems went far deeper, and in keeping with my technical
 bent, I'll hereby describe them:
 
-- Arbitrary changes in terminology that sowed confusion.
+- Arbitrary changes in terminology that sowed confusion
 
 - Extraneous points stuck in to seem relevant when they weren't,
 probably because they had been required in the outline and the author
-did not know what they pertained to.
+did not know what they pertained to
 
 - Failure to distinguish background activities from features of the
-product.
+product
 
 - Omissions of fundamental information, such as characteristics of the
-environment in which the proudct runs.
+environment in which the proudct runs
 
 I probably felt the way a master carpenter does when callee in to make
 repairs on an addition built by an amateur who introduced every
