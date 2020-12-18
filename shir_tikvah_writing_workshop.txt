@@ -1788,7 +1788,7 @@ a trash can for our garbage collectors for Christmas.
 I had time while shoveling to think over the past year. My clients are
 shutting down, so my income will take a bit of a hit. I am allowed to
 charge my main client, the IEEE, for 60 hours in December, and I
-checked the tally so far. I have alrady worked 59 hours and 12
+checked the tally so far. I have already worked 59 hours and 6
 minutes. That's what the percentage 59.5 works out to.
 
 In praise of reviewers. Reviewers are integral to the accuracy of my
@@ -1805,7 +1805,7 @@ hint of creativity--anything I wrote to catch the readers' eye, to
 make them stand up and take notice, to make them pause and consider a
 new way of looking at the world. "This could offend somebody," pouts
 the final reviewer. "This could be misconstrued by somebody." I can't
-prove a naegative. Just because no one up to now has been offended,
+prove a negative. Just because no one up to now has been offended,
 and everyone has construed the passage properly, doesn't mean that
 those things will always be true.
 
