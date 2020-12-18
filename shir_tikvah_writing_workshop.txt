@@ -1775,3 +1775,87 @@ So this is something new. A topic I know very little about, one I have
 to imagine instead of something I can at least pretend to have lived
 through. I'm eager to take a vacation at the end of this month and
 finish a draft.
+
+------
+
+December 18, 2020
+
+Why are so few cars out, after so many hard-bitten snowplowers put in
+so much time making the streets ready for them? I myself have been out
+shoveling four times, and Judy has gone out as well. I left a gift on
+a trash can for our garbage collectors for Christmas.
+
+I had time while shoveling to think over the past year. My clients are
+shutting down, so my income will take a bit of a hit. I am allowed to
+charge my main client, the IEEE, for 60 hours in December, and I
+checked the tally so far. I have alrady worked 59 hours and 12
+minutes. That's what the percentage 59.5 works out to.
+
+In praise of reviewers. Reviewers are integral to the accuracy of my
+work as well as allowing readers to make sense of it. Most of my last
+month of work, as projects wrap up for the year, is dealing with
+reviewrs. However, I have to make note ot times when that isn't so
+beneficial.
+
+I notice that in government offices and large companies, after
+reviewers have checked my articles for accuracy, a special reviewer is
+brought in near the end to make sure the article is boring. They do
+this by extracting and placing under a microscope every passage with a
+hint of creativity--anything I wrote to catch the readers' eye, to
+make them stand up and take notice, to make them pause and consider a
+new way of looking at the world. "This could offend somebody," pouts
+the final reviewer. "This could be misconstrued by somebody." I can't
+prove a naegative. Just because no one up to now has been offended,
+and everyone has construed the passage properly, doesn't mean that
+those things will always be true.
+
+The real reason, I believe, these reviewers cut out interesting
+phrases is that they have spent their whole careers reading memos and
+press releases that challenge nothing and offer nothing. It's really
+quite sad, that these bureaucrats think professional must equal
+boring.
+
+Then we have the occasional reviewer who tamps down every flourish by
+taking it literally. One IBM manager, reviewing a report about open
+source and cloud computing, asked me to add a description of an
+organization he considered important to our topic. I investigated this
+organization and found that he was right. Not only did the
+organization sponsor many open source technologies in widespread use,
+but its own longevity was bolstered through sponsorship by all the
+leading computer firms. So I said that the organization guaranteed the
+continued importance of open source software in that field.
+
+The manager pounced on the word "guaranteed" as if it were an
+infectious carrier. "The organization can't guarantee anything," he
+thundered in a comment. "All it can do is produce the software."
+
+There's no hope explaining to someone like that the rhetorical intent
+of my phrase. Perhaps he lies somewhere inside the autistic spectrum.
+More likely, he deals too much with legal situations where
+"guarantees" means you'll be sued if something doesn't happen. I
+removed the word, noting with amusement that this manager, who had
+instructed me to highlight an organization, ended up telling me to
+downplay it. His fastidiousness undermined his own goal. What was left
+was one extra boring paragraph.
+
+Reviewers are too often sewpt up in what they want rather than
+considering what would enhance an article or its readers'
+understanding. In writing up open source technologies for the same
+report sponsored by IBM, I came across more findings in their
+sponsored survey about competing companies. The reviewers said, "Let's
+cut this information out. It doesn't support our points." Thinking
+that this was precisely why the information should remain--that it
+would provide nuance and let people see that our report was
+objective--I won from them an agreement to place the information in an
+appendix.
+
+But danger lies in such a compromise. Putting text into an appendix
+implicitly indicates that, like the part of the human anatomy of that
+name, the information is superfluous. At the very last day when we
+were approving the report's final version, in the last few minutes of
+the meeting when no time for discussion was left, the reviewers once
+again called for the removal of the appendix. I could not argue then
+that it was important.
+
+Some reviewers are expert at making an article superifial and
+one-sided. When this is their goal, they can guarantee it.
