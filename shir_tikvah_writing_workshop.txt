@@ -1789,7 +1789,7 @@ I had time while shoveling to think over the past year. My clients are
 shutting down, so my income will take a bit of a hit. I am allowed to
 charge my main client, the IEEE, for 60 hours in December, and I
 checked the tally so far. I have already worked 59 hours and 6
-minutes. That's what the percentage 59.5 works out to.
+minutes. That's what the percentage 59.05 works out to.
 
 In praise of reviewers. Reviewers are integral to the accuracy of my
 work as well as allowing readers to make sense of it. Most of my last
